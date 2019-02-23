@@ -1,4 +1,6 @@
 ## 无限轮播
+预览：
+https://mingzihhh.github.io/Infinite-carousel/#
 
 思路：
 
